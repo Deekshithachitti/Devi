@@ -1,3 +1,4 @@
 Name:Devi Deekshitha Chitti
 Course:Artificial Intelligence
-Iam interested to learn more about github
+Iam interested to learn more about the git
+
